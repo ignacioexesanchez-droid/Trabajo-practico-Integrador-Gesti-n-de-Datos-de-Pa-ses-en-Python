@@ -1,1 +1,1 @@
-# Trabajo-practico-Integrador-Gesti-n-de-Datos-de-Pa-ses-en-Python
+# Trabajo-Practico-Integrador-Gestion-de-Datos-de-Paises-en-Python
