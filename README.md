@@ -10,6 +10,6 @@ El objetivo principal es aplicar los conocimientos adquiridos en la materia Prog
 
 ° Comisión 4 
 
-° Integrantes: Ignacio Sanchez, Fernando Torrez
+° Integrantes: Ignacio Sanchez, Fernando Torrez, Nicolas Valdez
 
 ° Datos de Profesores: Cinthia Rigoni, Ramiro Hualpa
