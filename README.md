@@ -40,12 +40,19 @@ El objetivo del proyecto es aplicar conceptos fundamentales de programación est
 🧱 Estructura del proyecto
 
 📁 Proyecto_Paises/
+
 │
+
 ├── fcs_paises.py         # Módulo principal con las funciones del sistema
+
 ├── paises.py             # Archivo ejecutable con el menú principal
+
 ├── paises.csv            # Archivo CSV con datos de los países
+
 ├── Informe_Teorico.pdf   # Informe teórico con fundamentos del trabajo
+
 ├── README.md             # Este archivo
+
 └── 📂 ejecución_codigo/           # Capturas de pantalla de la ejecución del codigo 
 
 ⚙️ Instrucciones de ejecución
@@ -78,11 +85,13 @@ https://github.com/ignacioexesanchez-droid/Trabajo-practico-Integrador-Gesti-n-d
 Entrada (usuario):
 
 Seleccione una opción: 1
+
 Ingrese el nombre del país a buscar: argentina
 
 Salida (programa):
 
 País(es) encontrado(s):
+
 - Argentina: 45,808,747 habitantes, 2,780,400 km², Americas
 
 
